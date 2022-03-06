@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'lobster_1.4regular';
+    src: url('fonts/lobster_1.4.woff2') format('woff2'),
+         url('fonts/lobster_1.4.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bebas_kairegular';
+    src: url('fonts/bebaskai.woff2') format('woff2'),
+         url('fonts/bebaskai.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bebas_kairegular';
+    src: url('fonts/bebaskai.woff2') format('woff2'),
+         url('fonts/bebaskai.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body{
+    font-family: "lobster_1.4regular";
+    color: aliceblue;
+}
+
+.textoSomos{
+    font-family: "lobster_1.4regular";
+}
+
+.navbar{
+    font-family:"bebas_kairegular";
+    font-size: 18px;
+}
+.logo{
+    max-width: 120px;
+}
+
+.nav-item{
+    min-width: 100px;
+}
+.nav-item.active a{
+    color: #f15a24;
+}
+
+.nav-item a{
+    color: #422918;
+    text-align: center;
+}
+
+.nav-item a:hover{
+    color: #d6c2b4;
+}
+
+.container{
+    background-color:rgba(66, 41, 24, 0.8);
+    border-radius: 50px;
+    padding: 20px;
+    
+}
+
+.catalogo{
+    background-color: rgba();
+}
+
+.font-small{
+    color: black;
+    font-family:"bebas_kairegular";
+
+}
